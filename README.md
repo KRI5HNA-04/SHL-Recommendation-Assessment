@@ -8,6 +8,9 @@
 
 SHL Assessment Recommender is an AI-powered web application that helps hiring managers and recruiters quickly identify the most suitable SHL assessments for their specific job requirements. By analyzing job descriptions or hiring queries, the application leverages Google's Gemini 2.5 Pro AI to recommend relevant assessments from the SHL catalog.
 
+![image](https://github.com/user-attachments/assets/41a94f0a-fd46-478b-a85a-1df035639056)
+
+
 ## Features
 
 - **Smart Matching**: Uses advanced AI to analyze job requirements and match them with appropriate assessments
