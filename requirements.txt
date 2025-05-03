@@ -1,0 +1,10 @@
+gunicorn
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+openai
+google-generativeai
+scikit-learn
+sentence-transformers
